@@ -1,4 +1,4 @@
-prompt --application/pages/delete_00000
+prompt --application/pages/delete_00013
 begin
 wwv_flow_imp.component_begin (
  p_version_yyyy_mm_dd=>'2024.05.31'
@@ -8,7 +8,7 @@ wwv_flow_imp.component_begin (
 ,p_default_id_offset=>0
 ,p_default_owner=>'WKSP_UNIVESPPI'
 );
-wwv_flow_imp_page.remove_page (p_flow_id=>wwv_flow.g_flow_id, p_page_id=>0);
+wwv_flow_imp_page.remove_page (p_flow_id=>wwv_flow.g_flow_id, p_page_id=>13);
 wwv_flow_imp.component_end;
 end;
 /

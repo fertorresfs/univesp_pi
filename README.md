@@ -2,7 +2,7 @@
 
 ## Célio Antonio dos Santos, 2218851
 ## Christopher Mion Zambelle, 2224257
-Eraldo Augusto Santorsula, 2201769
+### Eraldo Augusto Santorsula, 2201769
 Fábio Adriano Delmilio, 2217008
 Fernando Torres Ferreira da Silva, 2201146
 Leandro Moraes Santos, 2226076

@@ -12,6 +12,12 @@
 ## Vídeo de apresentação do Projeto Integrador
 ## https://www.youtube.com/watch?v=qpsWo8ZKUwM
 
+## Link da Aplicação
+## https://apex.oracle.com/pls/apex/r/univesp_pi/sentinellins/dados?session=356461969456
+
+## Link da Aplicação de Backup
+## https://apex.oracle.com/pls/apex/r/univesp_pi/sentinellins/login?session=2207824350135
+
 ### Lins/Jaú - SP
 ### 2024
 
